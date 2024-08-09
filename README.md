@@ -18,19 +18,15 @@
 
 ### Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-repository-url.git
-    cd your-project-directory
-    ```
 
-2. **Install Dependencies**: 
+
+1. **Install Dependencies**: 
     Run the following command to install the required dependencies:
     ```bash
     flutter pub get
     ```
 
-3. **Run the Application**:
+2. **Run the Application**:
     To run the application on an emulator or connected device:
     ```bash
     flutter run
